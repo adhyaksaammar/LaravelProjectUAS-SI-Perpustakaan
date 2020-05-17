@@ -1,4 +1,5 @@
 # LaravelProjectUAS-SI-Perpustakaan
-Login 
+Login ||
 Email   = admin@admin.com
+||
 Pass    = 123456
